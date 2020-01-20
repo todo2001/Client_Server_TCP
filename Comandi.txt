@@ -1,3 +1,8 @@
 git config --list --> Vedere la Configurazioni 
+git status -->Vedere se sono caricati i file
+git init --> va sulla cartella crea la cartella git
 
- 
+Sincronizzare file:
+	-git add 
+	-git commit -m nomefile
+	-git push -u origin master
