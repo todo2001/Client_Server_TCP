@@ -49,7 +49,6 @@ public class Client_Server_TCP {
                  Logger.getLogger(Client_Server_TCP.class.getName()).log(Level.SEVERE, null, ex);
             }
              System.out.println("Connessione chiusa!");
-            ciao mi chiamo mattia
             
     }
 }
